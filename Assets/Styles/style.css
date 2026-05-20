@@ -1,26 +1,6 @@
-/* Color Palette 
- * Ice Light Blue - #B4D3D9
- * Light Peach - #EFD2B0
- * Soft Purple - #BDA6CE 
- * ---
- * Pallete 2 - Vintage Greens
- * Dark Green - #2F6B3F
- * Light Green - #7FB77E
- * Gold - #F7C85C
- * Peach - #FFF6C0
- * */
-
-:root {
-  --dark: #4B4038;
-  --accent1: #8BDFDD;
-  --accent2: #F48F68;
-  --light: #FFF6DE;
-
-}
-
 body { /* for general page */
     background-color: var(--light);
-    font-family: "Times New Roman", Times, serif;
+    font-family: "nuovavolte", sans-serif;
     padding-top: 48px;
     margin: 0;
     font-size: 20px;

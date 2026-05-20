@@ -1,0 +1,38 @@
+/* Color Pallete */
+:root {
+  --dark: #2F4858;
+  --accent1: #D17A22;
+  --accent2: #881600;
+  --light: #E8F7EE;
+}
+
+/* Fonts */
+@font-face { /* Nuovavolte Bold */
+  font-family: 'nuovavolte';
+  src: url('/Assets/Fonts/nuovavolte-bold-trial.ttf') format('truetype');
+  font-weight:700;
+}
+
+@font-face { /* Nuovavolte Light */
+  font-family: 'nuovavolte';
+  src: url('/Assets/Fonts/nuovavolte-light-trial.ttf') format('truetype');
+  font-weight:300;
+}
+
+@font-face { /* Nuovavolte medium */
+  font-family: 'nuovavolte';
+  src: url('/Assets/Fonts/nuovavolte-medium-trial.ttf') format('truetype');
+  font-weight:500;
+}
+
+@font-face { /* Nuovavolte regular */
+  font-family: 'nuovavolte';
+  src: url('/Assets/Fonts/nuovavolte-regular-trial.ttf') format('truetype');
+  font-weight:400;
+}
+
+@font-face { /* Nuovavolte Semibold */
+  font-family: 'nuovavolte';
+  src: url('/Assets/Fonts/nuovavolte-medium-trial.ttf') format('truetype');
+  font-weight:600;
+}

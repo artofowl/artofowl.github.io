@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown/Artwork/ScratchBoard.md",
+                "file": "Markdown/HomePage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ScratchBoard"
+              "title": "HomePage"
             }
           }
         ]
@@ -182,27 +182,26 @@
   },
   "active": "828c51d5348bae08",
   "lastOpenFiles": [
-    "Assets/Styles/style.css~",
+    "Markdown/CurrentlyShowing/CurrentlyShowing.md",
+    "Markdown/Contact/Contact.md",
+    "Markdown/AvailableWork/AvailableWork.md",
+    "Markdown/Artwork/ScratchBoard.md",
+    "Markdown/Artwork/Photography.md",
+    "Markdown/Artwork/Paintings.md",
+    "Markdown/Artwork/index.md",
+    "Markdown/AboutArtist/ArtistStatement.md",
+    "Markdown/AboutArtist/Bio.md",
+    "Markdown/HomePage.md",
+    "Markdown/Notes on site.md",
+    "Assets/Styles/global.css~",
+    "Assets/Styles/global.css",
     "Assets/Styles/NavbarStyle.css~",
+    "Assets/Styles/style.css",
+    "Assets/Styles/style.css~",
     "Assets/Scripts/loadcontent.js~",
     "Assets/header.html~",
     "HTML/CurrentlyShowing/index.html~",
     "HTML/CurrentlyShowing/index.html",
-    "HTML/CurrentlyShowing/template.html",
-    "HTML/Artwork/ScratchBoard.html~",
-    "Markdown/Artwork/index.md",
-    "HTML/Artwork/ScratchBoard.html",
-    "HTML/Artwork/Photography.html",
-    "HTML/Artwork/Painting.html",
-    "Markdown/AboutArtist/ArtistStatement.md",
-    "Markdown/AboutArtist/Bio.md",
-    "Markdown/Notes on site.md",
-    "Markdown/Artwork/Photography.md",
-    "Markdown/Artwork/Paintings.md",
-    "Markdown/Artwork/ScratchBoard.md",
-    "Markdown/AvailableWork/AvailableWork.md",
-    "Markdown/CurrentlyShowing/CurrentlyShowing.md",
-    "Markdown/Contact/Contact.md",
-    "Markdown/HomePage.md"
+    "HTML/CurrentlyShowing/template.html"
   ]
 }
