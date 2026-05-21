@@ -1,36 +1,56 @@
-body { /* for general page */
+body {
+    /* for general page */
     background-color: var(--light);
+
+    /* background art */
+    background-image: url("/Assets/Images/background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* --- */
+
     font-family: "nuovavolte", sans-serif;
     padding-top: 48px;
     margin: 0;
     font-size: 20px;
 }
 
-.content { /* margins that do not interfere with navbar */
-  margin: 0px 100px;
+.content {
+    /* margins that do not interfere with navbar */
+    margin: 0px 100px;
+
+    /* Background rectangle to have solid color over art */
+    background-color: color-mix(in srgb, var(--light) 65%, transparent);
+    padding: 20px 40px;
+    border-radius: 8px;
 }
 
-.content a { /* for links */
-  color: var(--dark);
-  text-decoration: none;
-  font-weight: bold;
-  border-bottom: 2px solid var(--dark);
+.content a {
+    /* for links */
+    color: var(--dark);
+    text-decoration: none;
+    font-weight: bold;
+    border-bottom: 2px solid var(--dark);
 }
 
-.content a:hover { /* hovering over links */
-  color: var(--accent1);
+.content a:hover {
+    /* hovering over links */
+    color: var(--accent1);
 }
 
-.content img { /* images */
-  display: block;
-  margin: 0 auto;
-  border: 2px solid var(--dark);
-  border-radius: 8px;
-  max-width: 50vw;
-  max-height: auto;
+.content img {
+    /* images */
+    display: block;
+    margin: 0 auto;
+    border: 2px solid var(--dark);
+    border-radius: 8px;
+    max-width: 50vw;
+    max-height: 70vh;
+    object-fit: contain;
 }
 
-pre { /* for code blocks */
+pre {
+    /* for code blocks */
     border: 2px solid #00ff41;
     padding: 20px;
     background-color: #0d0d0d;
@@ -38,33 +58,36 @@ pre { /* for code blocks */
     box-shadow: 0 0 8px rgba(0, 255, 65, 0.3);
 }
 
-pre code { /* for text in code blocks */
+pre code {
+    /* for text in code blocks */
     font-family: "Courier New", monospace;
     font-size: 14px;
     color: #00ff41;
 }
 
-code { /* inline code in normal text */
+code {
+    /* inline code in normal text */
     font-family: "Courier New", monospace;
     font-size: 14px;
     color: var(--dark); /* keep your original color here */
 }
 
-hr { /* the horizontal line */
-  border: none;
-  border-top: 2px solid var(--dark);
-  width: 100%;
-  margin: 20px auto;
+hr {
+    /* the horizontal line */
+    border: none;
+    border-top: 2px solid var(--dark);
+    width: 100%;
+    margin: 20px auto;
 }
 
 @media screen and (max-width: 600px) {
-  .content {
-    margin: 0px 16px;
-  }
-  .content img {
-    max-width: 90vw;
-  }
-  body {
-    font-size: 17px;
-  }
+    .content {
+        margin: 0px 16px;
+    }
+    .content img {
+        max-width: 90vw;
+    }
+    body {
+        font-size: 17px;
+    }
 }

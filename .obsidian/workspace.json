@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown/HomePage.md",
+                "file": "Markdown/Artwork/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "HomePage"
+              "title": "index"
             }
           }
         ]
@@ -182,26 +182,36 @@
   },
   "active": "828c51d5348bae08",
   "lastOpenFiles": [
-    "Markdown/CurrentlyShowing/CurrentlyShowing.md",
-    "Markdown/Contact/Contact.md",
-    "Markdown/AvailableWork/AvailableWork.md",
-    "Markdown/Artwork/ScratchBoard.md",
-    "Markdown/Artwork/Photography.md",
-    "Markdown/Artwork/Paintings.md",
-    "Markdown/Artwork/index.md",
     "Markdown/AboutArtist/ArtistStatement.md",
-    "Markdown/AboutArtist/Bio.md",
+    "Assets/Images/background.jpg",
+    "Markdown/Artwork/index.md",
+    "Markdown/Artwork/Paintings.md",
+    "Markdown/Artwork/Photography.md",
+    "Markdown/Artwork/ScratchBoard.md",
+    "Markdown/AvailableWork/AvailableWork.md",
+    "Markdown/Contact/Contact.md",
+    "Markdown/CurrentlyShowing/CurrentlyShowing.md",
     "Markdown/HomePage.md",
-    "Markdown/Notes on site.md",
-    "Assets/Styles/global.css~",
-    "Assets/Styles/global.css",
-    "Assets/Styles/NavbarStyle.css~",
-    "Assets/Styles/style.css",
-    "Assets/Styles/style.css~",
-    "Assets/Scripts/loadcontent.js~",
-    "Assets/header.html~",
-    "HTML/CurrentlyShowing/index.html~",
-    "HTML/CurrentlyShowing/index.html",
-    "HTML/CurrentlyShowing/template.html"
+    "Assets/Images/scratchart tab/_DSC4492.jpg",
+    "Assets/Images/painting tab/somnolent.jpg",
+    "Assets/Images/painting tab/New folder-01.jpg",
+    "Assets/Images/scratchart tab/_DSC4497.jpg",
+    "Assets/Images/scratchart tab/_DSC4494.jpg",
+    "Assets/Images/scratchart tab/_DSC4489.jpg",
+    "Assets/Images/scratchart tab/_DSC4473.jpg",
+    "Assets/Images/scratchart tab/_DSC4471.jpg",
+    "Assets/Images/scratchart tab/_DSC4469.jpg",
+    "Assets/Images/scratchart tab/IMG_3674.HEIC",
+    "Assets/Images/scratchart tab/IMG_3673.HEIC",
+    "Assets/Images/scratchart tab/IMG_3673(1).HEIC",
+    "Assets/Images/scratchart tab/IMG_3672.HEIC",
+    "Assets/Images/scratchart tab/IMG_0907.HEIC",
+    "Assets/Images/scratchart tab",
+    "Assets/Images/photography tab",
+    "Assets/Images/painting tab/IMG_6792.HEIC",
+    "Assets/Images/painting tab/IMG_6623.HEIC",
+    "Assets/Images/painting tab/IMG_4444.HEIC",
+    "Markdown/AboutArtist/Bio.md",
+    "Markdown/Notes on site.md"
   ]
 }

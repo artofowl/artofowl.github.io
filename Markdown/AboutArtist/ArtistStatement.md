@@ -1,8 +1,8 @@
 # Artist Statement
 
-asdf
+Insert Artist Statement
 
 ---
 # Artist Bio
 
-asdf
+Insert Artist Bio

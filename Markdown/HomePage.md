@@ -1,6 +1,8 @@
 
-# This Website is still under construction
 
-Please Have some patience as it is put together!
+# Welcome to Art of Owl!
 
-![placeholder](/Assets/Images/placeholder.png)
+This website is still under a lot of construction, so have some patience as I put it all together!
+
+
+![](/Assets/Images/painting%20tab/somnolent.jpg)
