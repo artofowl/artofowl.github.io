@@ -5,4 +5,4 @@
 This website is still under a lot of construction, so have some patience as I put it all together!
 
 
-![](/Assets/Images/painting%20tab/somnolent.jpg)
+![](/Assets/Images/painting/somnolent.webp)

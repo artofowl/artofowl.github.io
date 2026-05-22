@@ -3,7 +3,7 @@ body {
     background-color: var(--light);
 
     /* background art */
-    background-image: url("/Assets/Images/background.jpg");
+    background-image: url("/Assets/Images/background.webp");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
