@@ -1,13 +1,13 @@
 # Available Work
 
 
-![](/Assets/Images/currently%20available%20tab/Copy%20of%20_DSC4489.webp)
+![](/Assets/Images/currently%20available%20tab/Copy%20of%20DSC4489.webp)
 
-![](/Assets/Images/currently%20available%20tab/Copy%20of%20_DSC4492.webp)
+![](/Assets/Images/currently%20available%20tab/Copy%20of%20DSC4492.webp)
 
-![](/Assets/Images/currently%20available%20tab/Copy%20of%20_DSC4494.webp)
+![](/Assets/Images/currently%20available%20tab/Copy%20of%20DSC4494.webp)
 
-![](/Assets/Images/currently%20available%20tab/Copy%20of%20_DSC4497.webp)
+![](/Assets/Images/currently%20available%20tab/Copy%20of%20DSC4497.webp)
 
 ![](/Assets/Images/currently%20available%20tab/Copy%20of%20New%20folder-01.webp)
 

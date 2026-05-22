@@ -6,15 +6,15 @@
 
 Text describing the animal series
 
-![](/Assets/Images/scratchboard/_DSC4469.webp)
+![](/Assets/Images/scratchboard/DSC4469.webp)
 
-![](/Assets/Images/scratchboard/_DSC4471.webp)
+![](/Assets/Images/scratchboard/DSC4471.webp)
 
-![](/Assets/Images/scratchboard/_DSC4473.webp)
+![](/Assets/Images/scratchboard/DSC4473.webp)
 
-![](/Assets/Images/scratchboard/_DSC4489.webp)
+![](/Assets/Images/scratchboard/DSC4489.webp)
 
-![](/Assets/Images/scratchboard/_DSC4492.webp)
+![](/Assets/Images/scratchboard/DSC4492.webp)
 
 ![](/Assets/Images/scratchboard/New%20folder-10.webp)
 
@@ -36,9 +36,9 @@ Text describing the animal series
 
 Text describing the eye series
 
-![](/Assets/Images/scratchboard/_DSC4494.webp)
+![](/Assets/Images/scratchboard/DSC4494.webp)
 
-![](/Assets/Images/scratchboard/_DSC4497.webp)
+![](/Assets/Images/scratchboard/DSC4497.webp)
 
 ---
 

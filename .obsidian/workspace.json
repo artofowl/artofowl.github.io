@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown/Artwork/index.md",
-                "mode": "preview",
+                "file": "Markdown/AvailableWork/AvailableWork.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "AvailableWork"
             }
           }
         ]
@@ -182,22 +182,22 @@
   },
   "active": "828c51d5348bae08",
   "lastOpenFiles": [
-    "Markdown/AboutArtist/Bio.md",
-    "Markdown/AboutArtist/ArtistStatement.md",
     "Markdown/Artwork/index.md",
-    "Markdown/Artwork/Photography.md",
-    "Assets/Images/photography/7.webp",
-    "Assets/Images/photography/11.webp",
-    "Assets/Images/photography/12-1.webp",
-    "Assets/Images/photography/_DSC0026-2.webp",
-    "Assets/Images/photography/_DSC0033.webp",
-    "Assets/Images/photography/_DSC0037.webp",
-    "Assets/Images/photography/_DSC0463.webp",
-    "Assets/Images/photography/_DSC0510.webp",
-    "Assets/Images/photography/_DSC0554.webp",
-    "Assets/Images/photography/_DSC0573.webp",
+    "Assets/Images/available/Copy of DSC4489.jpg",
+    "Assets/Images/available/Copy of DSC4492.jpg",
+    "Assets/Images/available/Copy of DSC4494.jpg",
+    "Assets/Images/available/Copy of DSC4497.jpg",
+    "Assets/Images/photography/DSC9672.webp",
+    "Assets/Images/photography/DSC9555.webp",
+    "Assets/Images/photography/DSC9547.webp",
+    "Assets/Images/photography/DSC8105.webp",
+    "Assets/Images/photography/DSC1003.webp",
+    "Assets/Images/photography/DSC0925.webp",
     "Markdown/Artwork/Paintings.md",
     "Markdown/Artwork/ScratchBoard.md",
+    "Markdown/Artwork/Photography.md",
+    "Markdown/AboutArtist/Bio.md",
+    "Markdown/AboutArtist/ArtistStatement.md",
     "Markdown/HomePage.md",
     "Markdown/CurrentlyShowing/CurrentlyShowing.md",
     "Markdown/Contact/Contact.md",
