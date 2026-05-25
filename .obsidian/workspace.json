@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "e32a98b2b66865a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e43da5b09bbbee0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown/AvailableWork/AvailableWork.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "AvailableWork"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,26 +202,27 @@
   },
   "active": "828c51d5348bae08",
   "lastOpenFiles": [
-    "Markdown/Artwork/index.md",
-    "Assets/Images/available/Copy of DSC4489.jpg",
-    "Assets/Images/available/Copy of DSC4492.jpg",
-    "Assets/Images/available/Copy of DSC4494.jpg",
-    "Assets/Images/available/Copy of DSC4497.jpg",
-    "Assets/Images/photography/DSC9672.webp",
-    "Assets/Images/photography/DSC9555.webp",
-    "Assets/Images/photography/DSC9547.webp",
-    "Assets/Images/photography/DSC8105.webp",
-    "Assets/Images/photography/DSC1003.webp",
-    "Assets/Images/photography/DSC0925.webp",
-    "Markdown/Artwork/Paintings.md",
+    "Assets/Images/available/10.webp",
+    "Assets/Images/available/9.webp",
+    "Assets/Images/available/8.webp",
+    "Assets/Images/available/7.webp",
+    "Assets/Images/available/6.webp",
+    "Assets/Images/available/5.webp",
+    "Assets/Images/available/4.webp",
+    "Assets/Images/available/3.webp",
+    "Assets/Images/available/2.webp",
+    "Assets/Images/available/1.webp",
+    "Assets/Images/available/somnolent.webp",
     "Markdown/Artwork/ScratchBoard.md",
+    "Markdown/AvailableWork/AvailableWork.md",
+    "Markdown/Artwork/index.md",
+    "Markdown/Artwork/Paintings.md",
     "Markdown/Artwork/Photography.md",
     "Markdown/AboutArtist/Bio.md",
     "Markdown/AboutArtist/ArtistStatement.md",
     "Markdown/HomePage.md",
     "Markdown/CurrentlyShowing/CurrentlyShowing.md",
     "Markdown/Contact/Contact.md",
-    "Markdown/AvailableWork/AvailableWork.md",
     "Assets/Images/scratchart tab/IMG_3674.HEIC",
     "Assets/Images/scratchart tab/IMG_3673.HEIC",
     "Assets/Images/scratchart tab/IMG_3673(1).HEIC",
