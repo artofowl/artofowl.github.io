@@ -1,9 +1,9 @@
 /* ---------------------------Color Pallete */
 :root {
-  --dark: #2F4858;
-  --accent1: #D17A22;
-  --accent2: #881600;
-  --light: #E8F7EE;
+    --dark: #2f4858;
+    --accent1: #d17a22;
+    --accent2: #881600;
+    --light: #e8f7ee;
 }
 
 /* --------------------------- Mobile Adjustments */
@@ -21,40 +21,46 @@
         font-size: 24px;
     }
     nav ul {
-      position: static;
-      width: 100%;
+        position: static;
+        width: 100%;
     }
-    nav ul li {float: none;}
-  }
+    nav ul li {
+        float: none;
+    }
 }
 
 /* --------------------------- Fonts */
-@font-face { /* Nuovavolte Bold */
-  font-family: 'nuovavolte';
-  src: url('/Assets/Fonts/nuovavolte-bold-trial.ttf') format('truetype');
-  font-weight:700;
+@font-face {
+    /* Nuovavolte Bold */
+    font-family: "nuovavolte";
+    src: url("/Assets/Fonts/nuovavolte-bold-trial.ttf") format("truetype");
+    font-weight: 700;
 }
 
-@font-face { /* Nuovavolte Light */
-  font-family: 'nuovavolte';
-  src: url('/Assets/Fonts/nuovavolte-light-trial.ttf') format('truetype');
-  font-weight:300;
+@font-face {
+    /* Nuovavolte Light */
+    font-family: "nuovavolte";
+    src: url("/Assets/Fonts/nuovavolte-light-trial.ttf") format("truetype");
+    font-weight: 300;
 }
 
-@font-face { /* Nuovavolte medium */
-  font-family: 'nuovavolte';
-  src: url('/Assets/Fonts/nuovavolte-medium-trial.ttf') format('truetype');
-  font-weight:500;
+@font-face {
+    /* Nuovavolte medium */
+    font-family: "nuovavolte";
+    src: url("/Assets/Fonts/nuovavolte-medium-trial.ttf") format("truetype");
+    font-weight: 500;
 }
 
-@font-face { /* Nuovavolte regular */
-  font-family: 'nuovavolte';
-  src: url('/Assets/Fonts/nuovavolte-regular-trial.ttf') format('truetype');
-  font-weight:400;
+@font-face {
+    /* Nuovavolte regular */
+    font-family: "nuovavolte";
+    src: url("/Assets/Fonts/nuovavolte-regular-trial.ttf") format("truetype");
+    font-weight: 400;
 }
 
-@font-face { /* Nuovavolte Semibold */
-  font-family: 'nuovavolte';
-  src: url('/Assets/Fonts/nuovavolte-medium-trial.ttf') format('truetype');
-  font-weight:600;
+@font-face {
+    /* Nuovavolte Semibold */
+    font-family: "nuovavolte";
+    src: url("/Assets/Fonts/nuovavolte-medium-trial.ttf") format("truetype");
+    font-weight: 600;
 }

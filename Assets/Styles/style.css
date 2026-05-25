@@ -68,7 +68,6 @@ pre code {
 code {
     /* inline code in normal text */
     font-family: "Courier New", monospace;
-    font-size: 14px;
     color: var(--dark); /* keep your original color here */
 }
 
