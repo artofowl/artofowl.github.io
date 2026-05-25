@@ -1,4 +1,5 @@
-/* ---------------------------Color Pallete */
+/* ------------- Color Pallete -------------*/
+
 :root {
     --dark: #2f4858;
     --accent1: #d17a22;
@@ -6,7 +7,8 @@
     --light: #e8f7ee;
 }
 
-/* --------------------------- Mobile Adjustments */
+/* ------------- Mobile Adjustments -----------*/
+
 @media screen and (max-width: 600px) {
     .content {
         margin: 0px 16px;
@@ -29,7 +31,7 @@
     }
 }
 
-/* --------------------------- Fonts */
+/* --------------- Fonts ----------------*/
 @font-face {
     /* Nuovavolte Bold */
     font-family: "nuovavolte";
