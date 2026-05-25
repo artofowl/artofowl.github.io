@@ -1,4 +1,4 @@
-/* Color Pallete */
+/* ---------------------------Color Pallete */
 :root {
   --dark: #2F4858;
   --accent1: #D17A22;
@@ -6,7 +6,29 @@
   --light: #E8F7EE;
 }
 
-/* Fonts */
+/* --------------------------- Mobile Adjustments */
+@media screen and (max-width: 600px) {
+    .content {
+        margin: 0px 16px;
+        padding: 20px 0px;
+    }
+    .content img {
+        max-width: 90vw;
+        margin: 0 auto;
+        display: block;
+    }
+    body {
+        font-size: 24px;
+    }
+    nav ul {
+      position: static;
+      width: 100%;
+    }
+    nav ul li {float: none;}
+  }
+}
+
+/* --------------------------- Fonts */
 @font-face { /* Nuovavolte Bold */
   font-family: 'nuovavolte';
   src: url('/Assets/Fonts/nuovavolte-bold-trial.ttf') format('truetype');
