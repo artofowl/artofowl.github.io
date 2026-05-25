@@ -1,6 +1,7 @@
 
 Click on the photos below to go to the album.
 
+
 # Paintings
 
 [![](/Assets/Images/painting/New%20folder-02.webp)](/HTML/Artwork/Painting.html)
