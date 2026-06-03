@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown/HomePage.md",
+                "file": "Markdown/Artwork/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "HomePage"
+              "title": "index"
             }
           }
         ]
@@ -182,11 +182,14 @@
   },
   "active": "828c51d5348bae08",
   "lastOpenFiles": [
-    "Markdown/Artwork/index.md",
+    "Markdown/CurrentlyShowing/CurrentlyShowing.md",
+    "Markdown/Contact/Contact.md",
+    "Markdown/AvailableWork/AvailableWork.md",
     "Markdown/Artwork/ScratchBoard.md",
+    "Markdown/HomePage.md",
+    "Markdown/Artwork/index.md",
     "Markdown/Artwork/Photography.md",
     "Markdown/Artwork/Paintings.md",
-    "Markdown/AvailableWork/AvailableWork.md",
     "Assets/Images/available/10.webp",
     "Assets/Images/available/9.webp",
     "Assets/Images/available/8.webp",
@@ -199,9 +202,6 @@
     "Assets/Images/available/1.webp",
     "Markdown/AboutArtist/Bio.md",
     "Markdown/AboutArtist/ArtistStatement.md",
-    "Markdown/HomePage.md",
-    "Markdown/CurrentlyShowing/CurrentlyShowing.md",
-    "Markdown/Contact/Contact.md",
     "Assets/Images/scratchart tab/IMG_3674.HEIC",
     "Assets/Images/scratchart tab/IMG_3673.HEIC",
     "Assets/Images/scratchart tab/IMG_3673(1).HEIC",

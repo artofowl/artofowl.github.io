@@ -77,3 +77,34 @@ hr {
     width: 100%;
     margin: 20px auto;
 }
+
+/* Lightbox overlay */
+#lightbox-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.85);
+    z-index: 1000;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+}
+
+#lightbox-overlay.active {
+    display: flex;
+}
+
+#lightbox-overlay img {
+    max-width: 90vw;
+    max-height: 90vh;
+    object-fit: contain;
+    border-radius: 4px;
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.6);
+}
+
+/* Make content images look clickable */
+article img,
+.content img,
+main img {
+    cursor: zoom-in;
+}
