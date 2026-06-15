@@ -4,7 +4,7 @@
 
 ## Shape Series
 
-Some text explaining the shape series
+"Shapes" is a photographic project exploring the emotional weight of simple shapes. Each "shape" is a large hand-cut, hand-painted cardboard character or scene. For some, these images resonate with nostalgia or emotional presence. For others, they may be just...shapes. 
 
 ![](/Assets/Images/photography/DSC0463.webp)
 
@@ -48,15 +48,21 @@ Some text explaining the shape series
 
 ---
 
-![](/Assets/Images/photography/DSC8105.webp)
+## Learning to Fish
 
-![](/Assets/Images/photography/DSC9393.webp)
+The world is your oyster. The sky is the limit. I think a more apt description is you live in a clear tank, seeing the world yet contained by the limitations around you. 
 
-![](/Assets/Images/photography/DSC9547.webp)
-
-![](/Assets/Images/photography/DSC9555.webp)
+![](/Assets/Images/photography/ready2print-1.webp)
 
 ![](/Assets/Images/photography/DSC9672.webp)
+
+![](/Assets/Images/photography/New%20folder%20(2)-5.webp)
+
+---
+
+## Ghosted
+
+The inevitability of disability is losing who you were before. As a young adult, I suffered from intense vertigo and chronic migraines while living alone. This mini series of self portraits capture both the physical sensation of vertigo, and the feeling of disappearing from the world in silence. 
 
 ![](/Assets/Images/photography/DSC9833.webp)
 
@@ -68,38 +74,60 @@ Some text explaining the shape series
 
 ![](/Assets/Images/photography/mid%208.PNG)
 
-![](/Assets/Images/photography/New%20folder%20(2)-1.webp)
+___
 
-![](/Assets/Images/photography/New%20folder%20(2)-2.webp)
-
-![](/Assets/Images/photography/New%20folder%20(2)-3.webp)
+## Greeley Snapshots
 
 ![](/Assets/Images/photography/New%20folder%20(2)-4.webp)
 
-![](/Assets/Images/photography/New%20folder%20(2)-5.webp)
-
 ![](/Assets/Images/photography/New%20folder%20(2)-6.webp)
-
-![](/Assets/Images/photography/New%20folder%20(2)-7.webp)
 
 ![](/Assets/Images/photography/printer%20accident%20600%20dpi.webp)
 
-![](/Assets/Images/photography/printing-2.webp)
-
-![](/Assets/Images/photography/printing-5.webp)
-
-![](/Assets/Images/photography/printing-7-3.webp)
-
-![](/Assets/Images/photography/printing-15-3.webp)
-
 ![](/Assets/Images/photography/printing-39.webp)
 
-![](/Assets/Images/photography/ready2print-1.webp)
+---
+## Sonder and Magma
 
 ![](/Assets/Images/photography/ready2print-2.webp)
+
+![](/Assets/Images/photography/New%20folder%20(2)-3.webp)
+
+---
+
+## Dynamic Range
+
+![](/Assets/Images/photography/DSC8105.webp)
+
+![](/Assets/Images/photography/New%20folder%20(2)-2.webp)
+
+![](/Assets/Images/photography/New%20folder%20(2)-1.webp)
+
+![](/Assets/Images/photography/New%20folder%20(2)-7.webp)
+
+![](/Assets/Images/photography/DSC9393.webp)
+
+---
+
+## Hikers of the Garden (of Gods)
 
 ![](/Assets/Images/photography/DSC0026-2.webp)
 
 ![](/Assets/Images/photography/DSC0033.webp)
 
 ![](/Assets/Images/photography/DSC0037.webp)
+
+---
+
+## Portraits of a Muse
+
+
+![](/Assets/Images/photography/printing-15-3.webp)
+
+![](/Assets/Images/photography/printing-5.webp)
+
+![](/Assets/Images/photography/printing-2.webp)
+
+![](/Assets/Images/photography/DSC9555.webp)
+
+![](/Assets/Images/photography/DSC9547.webp)

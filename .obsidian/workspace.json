@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown/Artwork/index.md",
+                "file": "Markdown/Notes on site.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Notes on site"
             }
           }
         ]
@@ -182,14 +182,17 @@
   },
   "active": "828c51d5348bae08",
   "lastOpenFiles": [
+    "Markdown/HomePage.md",
     "Markdown/CurrentlyShowing/CurrentlyShowing.md",
     "Markdown/Contact/Contact.md",
     "Markdown/AvailableWork/AvailableWork.md",
-    "Markdown/Artwork/ScratchBoard.md",
-    "Markdown/HomePage.md",
+    "Markdown/AboutArtist/ArtistStatement.md",
+    "Markdown/AboutArtist/Bio.md",
     "Markdown/Artwork/index.md",
-    "Markdown/Artwork/Photography.md",
     "Markdown/Artwork/Paintings.md",
+    "Markdown/Artwork/Photography.md",
+    "Markdown/Artwork/ScratchBoard.md",
+    "Markdown/Notes on site.md",
     "Assets/Images/available/10.webp",
     "Assets/Images/available/9.webp",
     "Assets/Images/available/8.webp",
@@ -200,8 +203,6 @@
     "Assets/Images/available/3.webp",
     "Assets/Images/available/2.webp",
     "Assets/Images/available/1.webp",
-    "Markdown/AboutArtist/Bio.md",
-    "Markdown/AboutArtist/ArtistStatement.md",
     "Assets/Images/scratchart tab/IMG_3674.HEIC",
     "Assets/Images/scratchart tab/IMG_3673.HEIC",
     "Assets/Images/scratchart tab/IMG_3673(1).HEIC",
@@ -211,7 +212,6 @@
     "Assets/Images/photography tab",
     "Assets/Images/painting tab/IMG_6792.HEIC",
     "Assets/Images/painting tab/IMG_6623.HEIC",
-    "Assets/Images/painting tab/IMG_4444.HEIC",
-    "Markdown/Notes on site.md"
+    "Assets/Images/painting tab/IMG_4444.HEIC"
   ]
 }

@@ -8,6 +8,7 @@ document.body.appendChild(overlay);
 // Open on image click
 document.addEventListener("click", (e) => {
   if (e.target.tagName === "IMG" && !overlay.contains(e.target)) {
+    if (e.target.closest("a")) return; // skip if image is a link
     lightboxImg.src = e.target.src;
     lightboxImg.alt = e.target.alt;
     overlay.classList.add("active");
